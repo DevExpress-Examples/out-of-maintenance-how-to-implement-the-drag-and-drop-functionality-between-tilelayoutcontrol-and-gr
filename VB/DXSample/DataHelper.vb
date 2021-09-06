@@ -32,7 +32,7 @@ Namespace DXSample
 		End Function
 	End Class
 	Public Class ExampleObject
-		Inherits DevExpress.Xpf.Mvvm.BindableBase
+		Inherits DevExpress.Mvvm.BindableBase
 
 		' Fields...
 		Private _ImageUri As String

@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXSample", "DXSample\DXSample.vbproj", "{D5709296-12C8-423E-94E4-A107B26496DE}"
 EndProject
 Global
